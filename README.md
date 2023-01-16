@@ -1,6 +1,6 @@
 # elg_berteus
 elg_berteus is a tool that predicts which word fits in a masked space on a basque text using the masked language model BERTEUS.
-This repository contains a dockerized API built over BERTEUS for integrate it into the ELG
+This repository contains a dockerized API built over BERTEUS for integrate it into the ELG.
 
 ## Install
 
